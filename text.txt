@@ -1,8 +1,16 @@
 SNO.-NAME-Employee-ID
 --
 <<<<<<< HEAD
+<<<<<<< HEAD
 39 - Shivam - APS-31188
 =======
 20 - Sanyam Gupta - APS-31181
 >>>>>>> fb7afdfa0e5c8abd5c8589cbb0686c9b62f827c7
+=======
+11 Abhishek APS31195
+17 Faizan Ali APS-31173
+20 - Sanyam Gupta - APS-31181
+25 - Utkarsh Dhiman - APS-31165
+27 - Varinder Singh - APS-31163
+>>>>>>> a17fca1985fb3c8d041418e3d79deb234b95a32d
 40 - Siddhant- APS-31190
