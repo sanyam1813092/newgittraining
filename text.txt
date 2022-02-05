@@ -4,7 +4,6 @@ SNO.-NAME-Employee-ID
 7 Bhupinder APS-31152
 11-Abhishek-APS31195
 14-  Archit Jain-  APS-31144
->>>>>>> 2bc6cd76493e981f10e142ea4122e5b01eb51992
 17 Faizan Ali APS-31173
 20 - Sanyam Gupta - APS-31181
 20 - Sanyam Gupta - APS-31181
