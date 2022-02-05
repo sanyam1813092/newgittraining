@@ -1,5 +1,6 @@
 SNO.-NAME-Employee-ID
 --
+3 - Devesh Pratap Singh - APS-31187
 7 Bhupinder APS-31152
 11 -Abhishek -APS31195
 14-  Archit Jain-  APS-31144
@@ -7,11 +8,8 @@ SNO.-NAME-Employee-ID
 18 Sachin Mehta APS-31169
 19 - Tarun - APS-31145
 20 - Sanyam Gupta - APS-31181
-20 - Sanyam Gupta - APS-31181
 25 - Utkarsh Dhiman - APS-31165
 27 - Varinder Singh - APS-31163
 30 -pallavi-   aps-31191
 32 -DEEPAK-- APS31179
 40 - Siddhant- APS-31190
-
-
