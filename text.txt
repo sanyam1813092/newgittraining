@@ -1,2 +1,2 @@
-SNO.-NAME-Employee-ID
-5   Neha  APS-31143
+SNO. -NAME- Employee-ID
+5     Neha   APS-31143
