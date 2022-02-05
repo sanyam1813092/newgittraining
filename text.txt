@@ -1,10 +1,11 @@
 SNO.-NAME-Employee-ID
 --
 <<<<<<< HEAD
+20 - Sanyam Gupta - APS-31181
  32 DEEPAK-- APS31179
 40 - Siddhant- APS-31190
 >>>>>>> 9bc8f936caf88bb745bb48509b798c4ae90e9afd
 =======
-20 - Sanyam Gupta - APS-31181
+
 40 - Siddhant- APS-31190
 >>>>>>> fb7afdfa0e5c8abd5c8589cbb0686c9b62f827c7
