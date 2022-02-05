@@ -1,13 +1,8 @@
 SNO.-NAME-Employee-ID
 --
 7 Bhupinder APS-31152
-<<<<<<< HEAD
->>>>>>> fd7984cdc642a8435a32767a406831bdfd38ed62
-11 Abhishek APS31195
-=======
 11-Abhishek-APS31195
 14-  Archit Jain-  APS-31144
->>>>>>> 03a08514c281345f1de51854e0237e2ec2ada52b
 17 Faizan Ali APS-31173
 20 - Sanyam Gupta - APS-31181
 23-Mayank Agrawal-APS-31159
@@ -15,8 +10,4 @@ SNO.-NAME-Employee-ID
 30 -pallavi-   aps-31191
 27 - Varinder Singh - APS-31163
 40 - Siddhant- APS-31190
-<<<<<<< HEAD
 45 - Rani Maheshwari - APS-31147
-=======
-40 - Siddhant- APS-31190
->>>>>>> 03a08514c281345f1de51854e0237e2ec2ada52b
