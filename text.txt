@@ -1,14 +1,16 @@
 SNO.-NAME-Employee-ID
 --
-<<<<<<< HEAD
-35 - Abhinav - APS-31174
-40 - Siddhant- APS-31190
-
-=======
-11 Abhishek APS31195
+7 Bhupinder APS-31152
+11 -Abhishek -APS31195
+14-  Archit Jain-  APS-31144
 17 Faizan Ali APS-31173
+19 - Tarun - APS-31145
+20 - Sanyam Gupta - APS-31181
 20 - Sanyam Gupta - APS-31181
 25 - Utkarsh Dhiman - APS-31165
 27 - Varinder Singh - APS-31163
+30 -pallavi-   aps-31191
+32 -DEEPAK-- APS31179
+35 - Abhinav - APS-31174
 40 - Siddhant- APS-31190
->>>>>>> 302c993db2d05c03fd861261910634434d3e26ba
+
