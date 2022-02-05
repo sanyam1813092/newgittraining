@@ -1,11 +1,8 @@
 SNO.-NAME-Employee-ID
 --
+3 - Devesh Pratap Singh - APS-31187
 7 Bhupinder APS-31152
-<<<<<<< HEAD
-11-Abhishek-APS31195
-=======
 11 -Abhishek -APS31195
->>>>>>> 05e3c8df6b525a4ec64bee1d42f404ca164d3218
 14-  Archit Jain-  APS-31144
 17 Faizan Ali APS-31173
 19 - Tarun - APS-31145
@@ -13,12 +10,5 @@ SNO.-NAME-Employee-ID
 25 - Utkarsh Dhiman - APS-31165
 27 - Varinder Singh - APS-31163
 30 -pallavi-   aps-31191
-<<<<<<< HEAD
-32 DEEPAK-- APS31179
-
-=======
 32 -DEEPAK-- APS31179
 40 - Siddhant- APS-31190
-
-
->>>>>>> 05e3c8df6b525a4ec64bee1d42f404ca164d3218
